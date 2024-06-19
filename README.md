@@ -1,5 +1,4 @@
 # ahorcado
-
 package com.mantilla;
 
 import java.util.Random;
